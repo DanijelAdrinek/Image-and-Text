@@ -4,7 +4,7 @@
 * The project was built to work well on every device while retaining pixel-perfect design and having added functionality
 * implemented SEO
 
-![Project Image](./assets/images/project.png)
+![Project Image](./assets/image/../images/project-showcase.png)
 
 # 👉 Built With
 * HTML5
