@@ -63,7 +63,6 @@ function animationEndHandler() {
  */
 function appendParagraphToParent(paragraph) {
     const paragraphParent = document.querySelector('section.text-content');
-    console.log(paragraph);
     paragraphParent.appendChild(paragraph);
 };
 
